@@ -1,0 +1,3 @@
+[report]
+omit =
+    cmpricehelper/cli.py
